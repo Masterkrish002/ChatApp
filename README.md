@@ -1,4 +1,4 @@
-## Simple Chat App using Express and Socket.IO
+## Chat App
 This is a simple chat application built using Express.js and Socket.IO. It allows multiple users to connect to a server and exchange messages in real-time.
 
 # Features
