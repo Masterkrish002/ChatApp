@@ -28,6 +28,6 @@ Before running the application, make sure you have the following installed:
 Express: A web application framework for Node.js used for handling HTTP requests.
 Socket.IO: A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
