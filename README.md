@@ -2,9 +2,9 @@
 This is a simple chat application built using Express.js and Socket.IO. It allows multiple users to connect to a server and exchange messages in real-time.
 
 # Features
-Real-time messaging: Users can send messages and receive them instantly without refreshing the page.
-Server-side logging: Messages sent by users are logged on the server console.
-Static file serving: Static files such as HTML, CSS, and client-side JavaScript are served using Express's static middleware.
+- Real-time messaging: Users can send messages and receive them instantly without refreshing the page.
+- Server-side logging: Messages sent by users are logged on the server console.
+- Static file serving: Static files such as HTML, CSS, and client-side JavaScript are served using Express's static middleware.
 
 # Prerequisites
 Before running the application, make sure you have the following installed:
@@ -13,9 +13,9 @@ Before running the application, make sure you have the following installed:
 - npm (Node Package Manager)
 
 # Installation
-Clone this repository to your local machine: git clone https://github.com/Masterkrish002/ChatApp.git
-Navigate to the project directory: cd chat_app
-Install dependencies using npm: npm install
+- Clone this repository to your local machine: git clone https://github.com/Masterkrish002/ChatApp.git
+- Navigate to the project directory: cd chat_app
+- Install dependencies using npm: npm install
 
 # Usage
 - Start the server:node index.js
